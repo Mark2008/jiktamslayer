@@ -3,5 +3,5 @@ __pycache__/
 
 # 저작권이슈
 # 수능특강 파일하고 수능완성 파일 넣으면 됨
-# (파일명: sj_sutk.pdf; sj_suwan.pdf)
+# (파일명: resoure/pdf/sj_sutk.pdf; resoure/pdf/sj_suwan.pdf)
 resource/*
